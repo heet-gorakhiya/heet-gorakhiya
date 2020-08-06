@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer!
 - 💻 I am very passionate about exploring various fields of Computer Science
-- 🔭 I’m currently working on Python, Django and PostGreSQL
+- 🔭 I work on Python, Django and PostGreSQL - mostly Backend Development
 - 🌱 I’m currently practicing problem-solving with Data Structures and Algorithms
 - 🎯 2020 Goals: Learn end-to-end Software Product Development and master problem-solving.
 
